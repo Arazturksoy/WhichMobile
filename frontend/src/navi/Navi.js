@@ -49,7 +49,7 @@ export default class Navi extends Component {
           <Nav className="mr-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/phones">Phones</Nav.Link>
-            <Nav.Link href="/howto">How To Use</Nav.Link>
+            <Nav.Link href="/howto">How To Work</Nav.Link>
             <Nav.Link href="/about">About</Nav.Link>
           </Nav>
           {/* <Form inline>

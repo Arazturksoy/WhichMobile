@@ -1,7 +1,7 @@
 from rest_framework.generics import ListAPIView, CreateAPIView, RetrieveAPIView
 from rest_framework.mixins import CreateModelMixin
 from filter.api.serializers import FilterSerializer
-from utils import twitterpy, nlp
+from utils import twitterpy#, nlp
 from filter.models import Filter, Tweet
 from django.contrib.auth.models import User
 
